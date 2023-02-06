@@ -17,4 +17,4 @@
 
 [* Нажмите чтобы открыть сайт](https://arinawebsite.github.io/kavarna/)
 
-![Изображение](/img/sites/kav.webp)
+![Изображение](/img/kav.jpg)
